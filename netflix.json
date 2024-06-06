@@ -1,0 +1,37 @@
+{
+    "English": [
+        {
+            "start": "00:00:00.000",
+            "end": "00:00:03.500",
+            "text": "Netflix presents"
+        }
+    ],
+    "العربية": [
+        {
+            "start": "00:00:00.000",
+            "end": "00:00:03.500",
+            "text": "نتفلكس تقدم"
+        }
+    ],
+    "Spanish": [
+        {
+            "start": "00:00:00.000",
+            "end": "00:00:03.500",
+            "text": "Netflix presenta"
+        }
+    ],
+    "German": [
+        {
+            "start": "00:00:00.000",
+            "end": "00:00:03.500",
+            "text": "Netflix präsentiert"
+        }
+    ],
+    "French": [
+        {
+            "start": "00:00:00.000",
+            "end": "00:00:03.500",
+            "text": "Netflix présente"
+        }
+    ]
+}
